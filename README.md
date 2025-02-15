@@ -150,7 +150,7 @@ print(os.listdir())  # List files in current directory
 ---
 
 ## 📌 Author  
-**Your Name** - Data Scientist & Machine Learning Engineer  
+**Umair khalid** - Data Scientist & Machine Learning Engineer  
 
 📧 Contact: sking3061@gmail.com
 🔗 LinkedIn:https://linkedin.com/in/umairkhaliddev/
